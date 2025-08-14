@@ -37,4 +37,4 @@ module.exports.createCaptain = async ({
   });
 
   return captain;
-}
+};
